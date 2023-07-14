@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "rootDir": "./src",
+        "outDir": "./dist",
+        "moduleResolution": "nodenext",
+        "module": "nodenext",
+        "target": "ESNext",
+        "esModuleInterop": true,
+    },
+    "include": ["src"],
+}
